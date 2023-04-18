@@ -33,7 +33,7 @@ Truly Optimised will always be up to date with the current Minecraft version!
 Mods like Essential, Journey Map, Blur, etc., have been implemented.
 
 
-[![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
+[![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)[![modrinth_64h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/modpack/trulyoptimized)
 
 **- This project is heavily under alpha and is WIP.**
 
