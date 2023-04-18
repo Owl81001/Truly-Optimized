@@ -1,23 +1,23 @@
-# Truly-Optimised
+# Truly-Optimized
 A Quilt-based Minecraft modpack focusing on performance and graphics enhancements with a little bit of QOL mods!
 
 [![imageedit_2_2370286891.png](https://cdn.jsdelivr.net/gh/Owl81001/Truly-Optimized-Quilt-@main/imageedit_2_2370286891.png)](https://quiltmc.org/en/)
 
 **About**
 
-Truly Optimised is an optimized modpack which focuses mostly on performance while having [Optifine-Parity features](https://lambdaurora.dev/optifine_alternatives/).
+Truly Optimized is an optimized modpack which focuses mostly on performance while having [Optifine-Parity features](https://lambdaurora.dev/optifine_alternatives/).
 
 **Performance**
 
-Truly Optimised uses the best [optimisation mods](https://github.com/TheUsefulLists/UsefulMods) which will improve performance.
+Truly Optimized uses the best [optimisation mods](https://github.com/TheUsefulLists/UsefulMods) which will improve performance.
 
 **Compatibility**
 
-Truly Optimised contains no content mods and is fully client-side, where you can join any server!
+Truly Optimized contains no content mods and is fully client-side, where you can join any server!
 
 **Tweaks**
 
-Truly Optimised has pre-set tweaks that allow you to download and play without any necessary changes.
+Truly Optimized has pre-set tweaks that allow you to download and play without any necessary changes.
 
 **Built on Quilt**
 
@@ -25,7 +25,7 @@ Quilt is a new mod-loader that is an open-source, community-driven modding toolc
 
 **Quick Updates**
 
-Truly Optimised will always be up to date with the current Minecraft version!
+Truly Optimized will always be up to date with the current Minecraft version!
 
 **Quality Of Life**
 
