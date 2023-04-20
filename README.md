@@ -1,5 +1,5 @@
 # Truly-Optimized
-A Quilt-based Minecraft modpack focusing on performance and graphics enhancements with a little bit of QOL mods!
+Mainly a Quilt -based Minecraft modpack focusing on performance and graphics enhancements with a little bit of QOL mods!
 
 [![imageedit_2_2370286891.png](https://cdn.jsdelivr.net/gh/Owl81001/Truly-Optimized-Quilt-@main/imageedit_2_2370286891.png)](https://quiltmc.org/en/)
 
@@ -31,13 +31,13 @@ Truly Optimized will always be up to date with the current Minecraft version!
 
 Mods like Essential, Journey Map, Blur, etc., have been implemented.
 
-[![curseforge_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/curseforge_46h.png)](https://legacy.curseforge.com/minecraft/modpacks/truly-optimized/)
-
 [![modrinth_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/modrinth_46h.png)](https://modrinth.com/modpack/trulyoptimized/)
 
 
 [![github_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/github_46h.png)](https://github.com/Owl81001/Truly-Optimized)
 
 **- This project is heavily under alpha and is WIP.**
+
+**-Planned to make others variations.**
 
 **No longer a Fork of FO**
