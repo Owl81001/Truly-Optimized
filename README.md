@@ -1,9 +1,9 @@
 # Truly-Optimized
-A Quilt-based Minecraft modpack which focuses on performance of minecraft with no QOL mods!
+A Quilt-based Minecraft modpack which focuses on performance with graphics enhancements (QOL) and optifine parity features!
 
 **About**
 
-Truly Optimized is an optimized modpack which focuses on performance only.
+Truly Optimized is an optimized modpack which focuses mostly on performance while having [Optifine-Parity features](https://lambdaurora.dev/optifine_alternatives/).
 
 **Performance**
 
@@ -11,11 +11,11 @@ Truly Performed uses the best [optimisation mods](https://github.com/TheUsefulLi
 
 **Compatibility**
 
-Truly Performed contains no content mods and is fully client-sided which allows you to join any server!
+Truly Optimized contains no content mods and is fully client-sided which allows you to join any server!
 
 **Tweaks**
 
-Truly Performed has pre-set tweaks which allows you to maximize performance and play without any necessary changes.
+Truly Optimized has pre-set tweaks which allows you to maximize performance and play without any necessary changes.
 
 **Built on Quilt**
 
@@ -23,13 +23,17 @@ Truly Performed has pre-set tweaks which allows you to maximize performance and 
 
 **Quick Updates**
 
-Truly Performed will be kept up to-date and will have quick updates.
+Truly Optimized will be kept up to-date and will have quick updates.
 
-**Check out my other modpack called [Truly Optimized](https://modrinth.com/modpack/trulyoptimized/) Its for perfomance with optifine parity feature users!**
+**Quality Of Life**
 
-[![modrinth_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/modrinth_46h.png)](https://modrinth.com/modpack/trulyperformed/)
+Mods like Essential, Journey Map, etc., have been implemented.
+
+**Check out my other modpack [Truly Performed!](https://modrinth.com/modpack/trulyperformed/) Its for performance users!**
+
+[![modrinth_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/modrinth_46h.png)](https://modrinth.com/modpack/trulyoptimized/)
 
 
-[![github_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/github_46h.png)](https://github.com/Owl81001/Truly-Performed)
+[![github_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/github_46h.png)](https://github.com/Owl81001/Truly-Optimized)
 
 **- This project is heavily under alpha and is WIP.**
